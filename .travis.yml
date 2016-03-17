@@ -1,0 +1,2 @@
+language: c++ 
+script: mkdir build && pushd build && cmake .. && make 
