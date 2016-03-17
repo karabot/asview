@@ -1,4 +1,4 @@
 language: c++ 
-script: mkdir build && pushd build && cmake .. && make
-before_install:
-  wget https://raw.githubusercontent.com/philsquared/Catch/master/single_include/catch.hpp -O /usr/local/include/catch.hpp
+script: mkdir build && pushd build wget https://raw.githubusercontent.com/philsquared/Catch/master/single_include/catch.hpp && cmake .. && make
+
+  
