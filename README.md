@@ -3,4 +3,4 @@ table/blob view based for azure
 
 hi.
 
-https://travis-ci.org/travis-ci/travis-web.svg?branch=master
+![Alt text](https://api.travis-ci.org/karabot/asview.svg?branch=master "Optional title")
